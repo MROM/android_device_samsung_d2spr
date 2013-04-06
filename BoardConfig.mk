@@ -30,4 +30,4 @@
 TARGET_OTA_ASSERT_DEVICE := d2spr,d2spi
 
 # Kernel
-TARGET_KERNEL_CONFIG    := mrom_d2spr_defconfig
+TARGET_KERNEL_CONFIG    := cyanogen_d2spr_defconfig
