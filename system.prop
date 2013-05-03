@@ -16,3 +16,7 @@ telephony.sms.pseudo_multipart=1
 # Default theme
 persist.sys.themeId=CyanOrangen Cobalt
 persist.sys.themePackageName=com.dustinb.theme.cyanorangencobalt
+persist.radio.snapshot_enabled=1
+persist.radio.snapshot_timer=22
+persist.eons.enabled=false
+
